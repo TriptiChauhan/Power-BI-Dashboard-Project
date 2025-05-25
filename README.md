@@ -43,6 +43,10 @@ Power BI Desktop
 
 DAX for calculated measures
 
+MS SQL Server Management Studio 21
+
+MS Excel for raw data
+
 Power Query for data cleaning and transformation
 
 # ✅ Features Implemented
