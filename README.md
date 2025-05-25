@@ -45,6 +45,7 @@ Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the Rev
 MS Office/Excel
 
 MS SQL Server
+
 SQL Server Management studio
 
 Power BI
